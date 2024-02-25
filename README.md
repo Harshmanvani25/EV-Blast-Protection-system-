@@ -43,3 +43,4 @@ The EV Blast Protection System, developed by Nisarg Patel and Harsh Manwani, off
 Video links for working project:-
 
 Google Drive:- https://drive.google.com/file/d/17hV4Udl8XFnjBC3PDNw975kCeFqDHTzf/view?usp=drivesdk
+YouTube :- https://youtu.be/kiBSixkugpc?feature=shared
