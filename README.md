@@ -2,7 +2,7 @@
 
 Team Members:
 1) Nisarg Patel
-2) Harsh Manwani
+2) Harsh Manvani
 
 Project Overview:
 The EV Blast Protection System is designed to mitigate the risks of electric vehicle (EV) battery explosions caused by internal electrical misbalance and external shocks. The system integrates various components including an ESP32 module, relay module, and DS18B20 temperature sensor to monitor and control the battery temperature effectively.
