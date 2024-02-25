@@ -8,9 +8,12 @@ Project Overview:
 The EV Blast Protection System is designed to mitigate the risks of electric vehicle (EV) battery explosions caused by internal electrical misbalance and external shocks. The system integrates various components including an ESP32 module, relay module, and DS18B20 temperature sensor to monitor and control the battery temperature effectively.
 
 Key Components:
-ESP32 Module: Central processing unit responsible for data processing and decision-making based on input from sensors.
-Relay Module: Controls the BLDC motor cutoff mechanism to prevent battery explosion in case of overheating.
-DS18B20 Temperature Sensor: Monitors the temperature of the battery in real-time to detect any anomalies.
+ESP32 Module: 
+Central processing unit responsible for data processing and decision-making based on input from sensors.
+Relay Module: 
+Controls the BLDC motor cutoff mechanism to prevent battery explosion in case of overheating.
+DS18B20 Temperature Sensor: 
+Monitors the temperature of the battery in real-time to detect any anomalies.
 Web Server Integration: Provides real-time monitoring of battery temperature and cutoff energy system readings to users.
 
 Functionality:
