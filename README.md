@@ -39,3 +39,7 @@ Implementation of the project on real life battery and developing system for ext
 
 Conclusion:
 The EV Blast Protection System, developed by Nisarg Patel and Harsh Manwani, offers a robust solution to enhance the safety of electric vehicles. By leveraging advanced sensing and control mechanisms, the system effectively mitigates the risks associated with battery explosions, ensuring a safer and more reliable EV operation.
+
+Video links for working project:-
+
+Google Drive:- https://drive.google.com/file/d/17hV4Udl8XFnjBC3PDNw975kCeFqDHTzf/view?usp=drivesdk
